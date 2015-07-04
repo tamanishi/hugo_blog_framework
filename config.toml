@@ -1,0 +1,10 @@
+baseurl = "http://tamanishi.net/"
+languageCode = "ja"
+title = "Overdose the shallots"
+
+[Params]
+# subtitle = "ネギ"
+twitter = "https://twitter.com/tamanishi"
+github = "https://github.com/tamanishi"
+profile = "/images/avatar_128.png"
+analytics = "UA-13063229-3"
